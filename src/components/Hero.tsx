@@ -21,7 +21,7 @@ const Hero = () => {
       <div className="relative z-10 text-center px-6 animate-fade-in">
         <div className="mb-6">
           <h1 className="font-display font-black text-6xl md:text-8xl lg:text-9xl mb-4 bg-gradient-primary bg-clip-text text-transparent animate-glow">
-            DJ NOVA
+            MONKEY BEATS
           </h1>
           <div className="h-1 w-32 mx-auto bg-gradient-primary rounded-full"></div>
         </div>
